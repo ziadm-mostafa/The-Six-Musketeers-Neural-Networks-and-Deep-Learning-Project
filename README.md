@@ -1,5 +1,3 @@
-# The-Six-Musketeers-Neural-Networks-and-Deep-Learning-Project
-
 # CineMatch Pro - 7-Engine AI Movie Recommendation System
 
 <div align="center">
