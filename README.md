@@ -441,9 +441,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-- **Project Maintainer**: [Your Name](mailto:your.email@example.com)
-- **Project Homepage**: [GitHub Repository](https://github.com/yourusername/cinematch-pro)
-- **Issues & Discussions**: [GitHub Issues](https://github.com/yourusername/cinematch-pro/issues)
+- **Project Maintainer**: [The Six Musketeers](https://github.com/Abdelrahmanezzz/The-Six-Musketeers-Neural-Networks-and-Deep-Learning-Project.git)
 
 ---
 
